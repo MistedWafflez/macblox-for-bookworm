@@ -2,7 +2,7 @@ These are some bash scripts I wrote for getting the MacOS Client working on Debi
 
 The three files each have a distinct function (and must be run in this order if installing).
 
-* [SDL3ForBookworm.sh](https://github.com/MistedWafflez/macblox-for-bookworm/blob/main/SDL3ForBookworm.sh) is an installer for SDL3, it is required to install Rosemary but is not included by default in Bookworm.
+* [SDL3ForBookworm.sh](https://github.com/MistedWafflez/macblox-for-bookworm/blob/main/SDL3ForBookworm.sh) is an installer for [SDL3](https://github.com/libsdl-org/SDL), it is required to install Rosemary but is not included by default in Bookworm.
 
 * [Rosemary](https://github.com/MistedWafflez/macblox-for-bookworm/blob/main/rosemaryForBookworm.sh) is an installer for [Rosemary](https://github.com/microlift/rosemary), a layer for running MacOS applications.
 
