@@ -1,3 +1,6 @@
+
+#DISCLAIMER: I wrote this script with the assistance of a large language model (aka. LLM/AI) because I was lazy, works as intended when I tested it.
+
 #go home
 cd ~
 #get new rust
