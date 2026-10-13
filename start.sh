@@ -1,3 +1,6 @@
+
+#written with love by @MistedWafflez (https://mistedwafflez.com/)
+
 export SDL_VIDEODRIVER=x11 #x11/wayland idk whatever you use
 
 #you belong here bro
