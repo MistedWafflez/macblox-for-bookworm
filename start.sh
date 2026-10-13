@@ -13,7 +13,7 @@ mkdir -p archives
 #checking if new update
 if [ -f "$HOME/RobloxMac/archives/${VERSION}-RobloxPlayer.zip" ]; then
 	echo "Version exists, will not update."
-	echo "btw cleaning up old versions from archive/* is your responsibility."
+	echo "btw cleaning up old versions is your responsibility."
 else
 	#backup
 	if [ -d "$HOME/RobloxMac/RobloxPlayer.app" ]; then
