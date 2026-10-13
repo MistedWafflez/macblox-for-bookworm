@@ -1,4 +1,4 @@
-These are some bash scripts I wrote for getting the MacOS Client working on Debian 12 (Bookworm).
+These are some bash scripts I wrote for getting the MacOS Client for Roblox working on Debian 12 (Bookworm).
 
 The three files each have a distinct function (and must be run in this order if installing).
 
